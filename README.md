@@ -1,7 +1,7 @@
 ## 「 David Rangel 」
 
 
- <div align="justify">Olá! Iniciei minha formação como Analista de Sistemas e, posteriormente, especializei-me em Segurança da Informação. Realizei diversos cursos em programação, TI, Ethical Hacking, software e hardware, adquirindo experiência com sistemas Linux e Windows. Meu objetivo é contribuir para a segurança digital das empresas e aprofundar meu conhecimento em tecnologia na área de segurança da informação.</div>
+ <div align="justify">Olá, me chamo David. Iniciei minha carreira em Análise de Sistemas e me especializei em Segurança da Informação. Ao longo do tempo, realizei cursos em programação, TI, Ethical Hacking, software e hardware, adquirindo experiência em sistemas Linux e Windows. Tenho como objetivo contribuir para a segurança digital das empresas, oferecendo soluções para mitigar riscos, e busco constantemente aprimorar meus conhecimentos em segurança e suporte técnico para garantir infraestruturas seguras e eficientes.</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
