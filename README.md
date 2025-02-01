@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/davidrrsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="right" alt="David-GIF" height="150" src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif">
+<img align="right" alt="David-GIF" height="210" src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-error404&show_icons=true&theme=transparent)
   
