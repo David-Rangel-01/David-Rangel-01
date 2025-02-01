@@ -20,7 +20,8 @@
 </div>
 <br>
 </br>
-
+ <img align="right" alt="David-GIF" height="150" src="https://i.pinimg.com/originals/ca/e3/8f/cae38f960de6ff51b3f16ed7900c8567.gif">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-error404&show_icons=true&theme=transparent)
   
 </div>
