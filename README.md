@@ -21,6 +21,6 @@
 
 <img align="right" alt="David-GIF" height="210" src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-error404&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Rangel-01&show_icons=true&theme=transparent)
   
 </div>
