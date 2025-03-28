@@ -1,9 +1,10 @@
 ## 「 David Rangel 」
 
 
- <div align="justify">Olá, me chamo David. Iniciei minha carreira em Análise de Sistemas e me especializei em Segurança da Informação. Ao longo do tempo, realizei cursos em programação, TI, Ethical Hacking, software e hardware, adquirindo experiência em sistemas Linux e Windows. Tenho como objetivo contribuir para a segurança digital das empresas, oferecendo soluções para mitigar riscos, e busco constantemente aprimorar meus conhecimentos em segurança e suporte técnico para garantir infraestruturas seguras e eficientes.</div>
+ <div align="justify">👋 Olá, me chamo David! Sou profissional de Segurança da Informação e com especialização em Desenvolvimento de Sistemas. Ao longo da minha jornada, aprofundei meus conhecimentos em programação, TI, Ethical Hacking, software e hardware. Tenho experiência sólida em sistemas Linux e Windows, além de um amplo domínio em linguagens de programação, segurança cibernética e desenvolvimento. Sempre em busca de novos desafios e aprendizados! </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="David-PyCharm" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg">
   <img align="center" alt="David-Vim" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VIM-Dark.svg">
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
