@@ -4,6 +4,7 @@
  <div align="justify">Olá, me chamo David. Iniciei minha carreira em Análise de Sistemas e me especializei em Segurança da Informação. Ao longo do tempo, realizei cursos em programação, TI, Ethical Hacking, software e hardware, adquirindo experiência em sistemas Linux e Windows. Tenho como objetivo contribuir para a segurança digital das empresas, oferecendo soluções para mitigar riscos, e busco constantemente aprimorar meus conhecimentos em segurança e suporte técnico para garantir infraestruturas seguras e eficientes.</div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="David-Vim" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VIM-Dark.svg">
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
