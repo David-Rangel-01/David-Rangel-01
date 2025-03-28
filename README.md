@@ -15,7 +15,7 @@
   <img align="center" alt="David-Kali" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg">
   <img align="center" alt="David-Html" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="David-Arch" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg">
-  <img align="center" alt="David-Neovim" heght="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg">
+  <img align="center" alt="David-Neovim" heght="25" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg">
   <img align="center" alt="David-Cloud" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg">
   <img align="center" alt="David-Azure" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg">
   <img align="center" alt="David-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
