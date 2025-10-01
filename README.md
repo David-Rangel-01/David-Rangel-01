@@ -1,7 +1,7 @@
 ## 「 David Rangel 」
 
 <hr>
- <div align="justify">👋 Olá, me chamo David! Sou profissional de Segurança da Informação e com especialização em Desenvolvimento de Sistemas. Ao longo da minha jornada, aprofundei meus conhecimentos em programação, TI, Ethical Hacking, software e hardware. Tenho experiência sólida em sistemas Linux e Windows, além de um amplo domínio em linguagens de programação, segurança cibernética e desenvolvimento. Sempre em busca de novos desafios e aprendizados! </div>
+ <div align="center">👋 Olá, me chamo David! Sou profissional de Segurança da Informação e com especialização em Desenvolvimento de Sistemas. Ao longo da minha jornada, aprofundei meus conhecimentos em programação, TI, Ethical Hacking, software e hardware. Tenho experiência sólida em sistemas Linux e Windows, além de um amplo domínio em linguagens de programação, segurança cibernética e desenvolvimento. Sempre em busca de novos desafios e aprendizados! </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-PyCharm" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg">
