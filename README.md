@@ -32,6 +32,6 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Rangel-01&show_icons=true&theme=transparent)
 
-![Snake animation](https://github.com/David-Rangel-01/David-Rangel-01/blob/main/.github/workflows/snake.yml)
+
   
 </div>
