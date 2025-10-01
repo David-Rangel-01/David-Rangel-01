@@ -3,7 +3,7 @@
 <hr>
  <div align="center">👋 Olá, me chamo David! Sou profissional de Segurança da Informação e com especialização em Desenvolvimento de Sistemas. Ao longo da minha jornada, aprofundei meus conhecimentos em programação, TI, Ethical Hacking, software e hardware. Tenho experiência sólida em sistemas Linux e Windows, além de um amplo domínio em linguagens de programação, segurança cibernética e desenvolvimento. Sempre em busca de novos desafios e aprendizados! </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="David-PyCharm" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg">
   <img align="center" alt="David-Vim" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VIM-Dark.svg">
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
